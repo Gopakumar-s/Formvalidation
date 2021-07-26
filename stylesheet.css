@@ -1,0 +1,19 @@
+#theform{
+    color: white;
+    display: table;
+    padding: 15px;
+    background-color: rgb(55, 120, 173);
+    border: solid 2px black;
+    
+}
+.row {
+    display: table-row;
+}
+.row label{
+    display: table-cell;
+    padding: 2px;
+}
+.row input{
+    display: table-cell;
+    padding: 2px;
+}
